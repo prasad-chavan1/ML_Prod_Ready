@@ -1,0 +1,4 @@
+src-- modules
+
+src/components -- data ingestion, transformation 
+(data ingestion-- retrieving data from databases)
