@@ -2,10 +2,16 @@
 
 ## Commands to run
 
-```bash
+```py
 conda create -p venv python==3.8 -y
 ```
 
-```bash
+```py
 conda activate venv/
+```
+
+## Change credentials in <b>setup.py</b> file
+
+```py
+pip install -r requirements.txt
 ```
